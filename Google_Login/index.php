@@ -1,11 +1,4 @@
 <?php
-/*  GOOGLE LOGIN BASIC - Tutorial
- *  file            - index.php
- *  Developer       - Krishna Teja G S
- *  Website         - http://packetcode.com/apps/google-login/
- *  Date            - 28th Aug 2015
- *  license         - GNU General Public License version 2 or later
-*/
 
 // REQUIREMENTS - PHP v5.3 or later
 // Note: The PHP client library requires that PHP has curl extensions configured. 
